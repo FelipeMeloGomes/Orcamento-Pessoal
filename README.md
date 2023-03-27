@@ -23,28 +23,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS.
 - JavaScript.
-- Vuejs.
+- bootstrap.
 
 ## 📚 Conceitos aprendidos no projeto
 
 - Front-end
-- Gerenciador de Pacotes (NPM).
-- JSON.
 - Responsividade.
-- Criação de componentes e reutilização.
-- Framework Vuejs.
+- Framework Bootstrap.
+- LocalStorage.
 
 
 
 
 
-## ✔ Atualizações 
-
-Melhorias implementadas:
-
-- Adição de novas carnes e molhos.
-- Implementação de um verificação nos inputs.
-- Melhorias na responsividade.
 
 
 ---
