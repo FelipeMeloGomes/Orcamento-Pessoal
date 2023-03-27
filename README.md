@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS.
 - JavaScript.
-- bootstrap.
+- Bootstrap.
 
 ## 📚 Conceitos aprendidos no projeto
 
