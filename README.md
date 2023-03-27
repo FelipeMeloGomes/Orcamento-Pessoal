@@ -1,7 +1,7 @@
 <h1 align="center"> FM Orçamento </h1>
 
 <p align="center">
-Um aplicativo de orçamentos pessoais. <br/>
+Um aplicativo para gerenciar suas finanças pessoais. podendo gerenciar melhor os seus gastos no dia a dia. <br/>
 </p>
 
 
