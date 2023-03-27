@@ -27,7 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📚 Conceitos aprendidos no projeto
 
-- Front-end
 - Responsividade.
 - Framework Bootstrap.
 - LocalStorage.
